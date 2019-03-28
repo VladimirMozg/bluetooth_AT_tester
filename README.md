@@ -5,8 +5,8 @@
  * использовать платы Arduino с аппаратными UART
  * например, Arduino Mega. Данная программа расчитана на подключения блютуса к UART3 на Arduino Mega
  * Для работы программы нужно подключить блютус следующим образом:
- * VCC - к 5 В на Arduino
- * GND - к GND на Arduino
- * Tx - к RX на Arduino
- * RX - к TX на Arduino
+ * VCC - к 5 В на Arduino Mega
+ * GND - к GND на Arduino Mega
+ * Tx - к RX3 на Arduino Mega
+ * RX - к TX3 на Arduino Mega
 */
